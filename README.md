@@ -1,7 +1,7 @@
 # vlsi-design
 ## VLSI Design Cadence Projects, Fall 2019
 
-Repository includes material from Fall 2019, in the form of writted-up projects. The projects were completed in Linux Cadence IC. 
+Repository includes material from Fall 2019, in the form of written-up projects. The projects were completed in Linux Cadence IC. 
 
 The projects include the use of Cadence Schematics, Virtuoso Layouts, Layout Extractions, DRC Checks, LVS, Simulations and Post-Simulations.
 
